@@ -1,0 +1,6 @@
+framework module DSKeychain {
+  umbrella header "DSKeychain-umbrella.h"
+
+  export *
+  module * { export * }
+}

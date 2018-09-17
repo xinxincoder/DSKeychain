@@ -1,0 +1,11 @@
+use_frameworks!
+platform:ios, '9.3'
+target 'DSKeychain_Example' do
+  pod 'DSKeychain', :path => '../'
+
+  target 'DSKeychain_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - DSKeychain (1.0.0)
+
+DEPENDENCIES:
+  - DSKeychain (from `../`)
+
+EXTERNAL SOURCES:
+  DSKeychain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSKeychain: 07e26ddc60cee20b241f8854d2fff583b5ba98d1
+
+PODFILE CHECKSUM: d25de8827869d950057b77e7dc0d339933475cb7
+
+COCOAPODS: 1.5.3
